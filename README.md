@@ -16,7 +16,7 @@ This project is a clone of Netflix, aimed at replicating the front-end functiona
 - JavaScript
 
 
-### Live Demo
+## Live Demo
 You can view the live demo of the Netflix clone at [Netflix Clone Demo](https://guggilam-sai-prabhat.github.io/NETFLIX_CLONE/index.html).
   
 
